@@ -2,9 +2,9 @@
 this is my first repository. this is demo for git and github.
 
 # student
-divyanshi verma
+divyanshi verma.
 
 # teacher
-shradha khapra
+shradha khapra.
 
 
